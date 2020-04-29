@@ -1,0 +1,671 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6a3b8c64-575c-4444-aae9-2108e3e2fd04" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="untitled" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Ysf777SNW79AgshHf581BfXnrX" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/FileReference" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\TIOSS-PC\Downloads\pythonproject\untitled\FileReference" />
+      <recent name="C:\Users\TIOSS-PC\Downloads\pythonproject\untitled\ExcelFile" />
+      <recent name="C:\Users\TIOSS-PC\Downloads\pythonproject\untitled\Test" />
+      <recent name="C:\Users\TIOSS-PC\Downloads\pythonproject\untitled\ObjectRepository" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\TIOSS-PC\Downloads\pythonproject\untitled\Commons" />
+      <recent name="C:\Users\TIOSS-PC\Downloads\pythonproject\untitled\Test" />
+      <recent name="C:\Users\TIOSS-PC\Downloads\pythonproject\untitled\Baseclassproperties" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.Test_DataDrivenTestCase">
+    <configuration name="Test_DataDrivenTestCase" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="untitled" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Test/Test_DataDrivenTestCase.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for Test.BaseClass.Test_BaseMain" type="tests" factoryName="py.test" nameIsGenerated="true">
+      <module name="untitled" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;Test.BaseClass.Test_BaseMain&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for Test.BaseClass.Test_BaseMain" type="tests" factoryName="py.test" nameIsGenerated="true">
+      <module name="untitled" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;Test.BaseClass.Test_BaseMain&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for Test.BaseClass.Test_BaseMain.testcase" type="tests" factoryName="py.test" nameIsGenerated="true">
+      <module name="untitled" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;Test.BaseClass.Test_BaseMain.testcase&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for Test_DataDrivenTestCase.MainTest" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="untitled" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;Test_DataDrivenTestCase.MainTest&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for Test_DataDrivenTestCase.MainTest.test_TestCase" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="untitled" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;Test_DataDrivenTestCase.MainTest.test_TestCase&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for Test.Test_DataDrivenTestCase" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="untitled" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;Test.Test_DataDrivenTestCase&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for Test.Test_DataDrivenTestCase" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="untitled" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;Test.Test_DataDrivenTestCase&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in C:/Users/TIOSS-PC/Downloads/pythonproject/untitled/Test/BaseClass.py" type="tests" factoryName="py.test" nameIsGenerated="true">
+      <module name="untitled" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/Test/BaseClass.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in Test_DataDrivenTestCase.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="untitled" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/Test/Test_DataDrivenTestCase.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in untitled" type="tests" factoryName="py.test" nameIsGenerated="true">
+      <module name="untitled" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="C:\Users\TIOSS-PC\PycharmProjects\test\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.Test_DataDrivenTestCase" />
+      <item itemvalue="Python tests.pytest for Test.BaseClass.Test_BaseMain" />
+      <item itemvalue="Python tests.pytest for Test.BaseClass.Test_BaseMain.testcase" />
+      <item itemvalue="Python tests.pytest in C:/Users/TIOSS-PC/Downloads/pythonproject/untitled/Test/BaseClass.py" />
+      <item itemvalue="Python tests.pytest in untitled" />
+      <item itemvalue="Python tests.pytest for Test_DataDrivenTestCase.MainTest" />
+      <item itemvalue="Python tests.pytest for Test_DataDrivenTestCase.MainTest.test_TestCase" />
+      <item itemvalue="Python tests.pytest for Test.Test_DataDrivenTestCase" />
+      <item itemvalue="Python tests.pytest in Test_DataDrivenTestCase.py" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Test_DataDrivenTestCase" />
+        <item itemvalue="Python tests.pytest in Test_DataDrivenTestCase.py" />
+        <item itemvalue="Python tests.pytest for Test_DataDrivenTestCase.MainTest" />
+        <item itemvalue="Python tests.pytest for Test_DataDrivenTestCase.MainTest.test_TestCase" />
+        <item itemvalue="Python tests.pytest for Test.Test_DataDrivenTestCase" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6a3b8c64-575c-4444-aae9-2108e3e2fd04" name="Default Changelist" comment="" />
+      <created>1583736051687</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583736051687</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="409" y="16" key="#DataDrivnTestCase_test" timestamp="1586934469370">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="409" y="16" key="#DataDrivnTestCase_test/0.0.1366.728@0.0.1366.728" timestamp="1586934469370" />
+    <state x="409" y="16" key="#ReadData" timestamp="1586499386345">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="409" y="16" key="#ReadData/0.0.1366.728@0.0.1366.728" timestamp="1586499386345" />
+    <state x="409" y="16" key="#TCP-AUT-GUI-INV-MIV-L1L-Layer1-001-00002-NEG_test" timestamp="1586211773664">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="409" y="16" key="#TCP-AUT-GUI-INV-MIV-L1L-Layer1-001-00002-NEG_test/0.0.1366.728@0.0.1366.728" timestamp="1586211773664" />
+    <state x="137" y="17" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583753434634">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="17" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1583753434634" />
+    <state x="422" y="172" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1584644280230">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="422" y="172" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1584644280230" />
+    <state x="463" y="67" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1583741296268">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="67" key="#com.intellij.ide.macro.MacrosDialog/0.0.1366.728@0.0.1366.728" timestamp="1583741296268" />
+    <state x="412" y="146" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1586411789206">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="412" y="146" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1366.728@0.0.1366.728" timestamp="1586411789206" />
+    <state x="413" y="112" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1587456026064">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="112" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1587456026064" />
+    <state x="409" y="19" key="#pytest_for_BaseClass_test.Test_BaseMain" timestamp="1586412671331">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="409" y="39" key="#pytest_for_BaseClass_test.Test_BaseMain.testcase" timestamp="1586413085604">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="409" y="39" key="#pytest_for_BaseClass_test.Test_BaseMain.testcase/0.0.1366.728@0.0.1366.728" timestamp="1586413085604" />
+    <state x="409" y="19" key="#pytest_for_BaseClass_test.Test_BaseMain/0.0.1366.728@0.0.1366.728" timestamp="1586412671331" />
+    <state x="409" y="19" key="#pytest_for_DataDrivnTestCase_test.TestCases_Execution.test_TestCase" timestamp="1587205906346">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="409" y="19" key="#pytest_for_DataDrivnTestCase_test.TestCases_Execution.test_TestCase/0.0.1366.728@0.0.1366.728" timestamp="1587205906346" />
+    <state x="409" y="19" key="#pytest_for_DataDrivnTestCase_test.TestCases_Execution.test_login" timestamp="1586844470732">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="409" y="19" key="#pytest_for_DataDrivnTestCase_test.TestCases_Execution.test_login/0.0.1366.728@0.0.1366.728" timestamp="1586844470732" />
+    <state x="402" y="0" key="#pytest_for_TCP-AUT-GUI-INV-MIV-L1L-Layer1-001-00001-POS_test.TestloginNP" timestamp="1586212132655">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="407" y="0" key="#pytest_for_TCP-AUT-GUI-INV-MIV-L1L-Layer1-001-00001-POS_test.TestloginNP.test_vcatscenario" timestamp="1586212294848">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="405" y="0" key="#pytest_for_TCP-AUT-GUI-INV-MIV-L1L-Layer1-001-00001-POS_test.TestloginNP.test_vcatscenario/0.0.1360.728@0.0.1360.728" timestamp="1584351333623" />
+    <state x="407" y="0" key="#pytest_for_TCP-AUT-GUI-INV-MIV-L1L-Layer1-001-00001-POS_test.TestloginNP.test_vcatscenario/0.0.1366.728@0.0.1366.728" timestamp="1586212294848" />
+    <state x="400" y="0" key="#pytest_for_TCP-AUT-GUI-INV-MIV-L1L-Layer1-001-00001-POS_test.TestloginNP/0.0.1360.728@0.0.1360.728" timestamp="1583994849052" />
+    <state x="402" y="0" key="#pytest_for_TCP-AUT-GUI-INV-MIV-L1L-Layer1-001-00001-POS_test.TestloginNP/0.0.1366.728@0.0.1366.728" timestamp="1586212132655" />
+    <state x="409" y="7" key="#pytest_for_TCP-AUT-GUI-INV-MIV-L1L-Layer1-001-00002-NEG_test.TestloginNP" timestamp="1586259681889">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="402" y="7" key="#pytest_for_TCP-AUT-GUI-INV-MIV-L1L-Layer1-001-00002-NEG_test.TestloginNP.test_vcatscenario" timestamp="1586259506842">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="402" y="7" key="#pytest_for_TCP-AUT-GUI-INV-MIV-L1L-Layer1-001-00002-NEG_test.TestloginNP.test_vcatscenario/0.0.1366.728@0.0.1366.728" timestamp="1586259506842" />
+    <state x="409" y="7" key="#pytest_for_TCP-AUT-GUI-INV-MIV-L1L-Layer1-001-00002-NEG_test.TestloginNP/0.0.1366.728@0.0.1366.728" timestamp="1586259681889" />
+    <state x="409" y="19" key="#pytest_for_Test_DataDrivenTestCase.MainTest" timestamp="1587436657246">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="409" y="19" key="#pytest_for_Test_DataDrivenTestCase.MainTest.test_TestCase" timestamp="1587435498972">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="409" y="19" key="#pytest_for_Test_DataDrivenTestCase.MainTest.test_TestCase/0.0.1366.728@0.0.1366.728" timestamp="1587435498972" />
+    <state x="409" y="19" key="#pytest_for_Test_DataDrivenTestCase.MainTest/0.0.1366.728@0.0.1366.728" timestamp="1587436657246" />
+    <state x="409" y="19" key="#pytest_for_Test_DataDrivenTestCase.TestMain.test_TestCase" timestamp="1587437273478">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="409" y="19" key="#pytest_for_Test_DataDrivenTestCase.TestMain.test_TestCase/0.0.1366.728@0.0.1366.728" timestamp="1587437273478" />
+    <state x="409" y="19" key="#pytest_in_Basemain_test.py" timestamp="1585844153326">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="409" y="19" key="#pytest_in_Basemain_test.py/0.0.1366.728@0.0.1366.728" timestamp="1585844153326" />
+    <state x="409" y="19" key="#pytest_in_TCP-AUT-GUI-INV-MIV-L1L-Layer1-001-00001-POS_test.py" timestamp="1586211760134">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="409" y="19" key="#pytest_in_TCP-AUT-GUI-INV-MIV-L1L-Layer1-001-00001-POS_test.py/0.0.1366.728@0.0.1366.728" timestamp="1586211760134" />
+    <state x="409" y="19" key="#pytest_in_Test_DataDrivenTestCase.py" timestamp="1587436131085">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="409" y="19" key="#pytest_in_Test_DataDrivenTestCase.py/0.0.1366.728@0.0.1366.728" timestamp="1587436131085" />
+    <state x="438" y="71" key="#xdebugger.evaluate" timestamp="1584651106666">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="438" y="71" key="#xdebugger.evaluate/0.0.1366.728@0.0.1366.728" timestamp="1584651106666" />
+    <state width="777" height="466" key="DebuggerActiveHint" timestamp="1586514332928">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="777" height="466" key="DebuggerActiveHint/0.0.1366.728@0.0.1366.728" timestamp="1586514332928" />
+    <state x="92" y="92" width="1182" height="544" key="DiffContextDialog" timestamp="1587210266543">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="92" y="92" width="1182" height="544" key="DiffContextDialog/0.0.1366.728@0.0.1366.728" timestamp="1587210266543" />
+    <state x="335" y="99" width="913" height="473" key="EnvironmentVariablesDialog" timestamp="1587437272484">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="335" y="99" width="913" height="473" key="EnvironmentVariablesDialog/0.0.1366.728@0.0.1366.728" timestamp="1587437272484" />
+    <state x="779" y="241" key="FileChooserDialogImpl" timestamp="1586211772662">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="779" y="241" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1586211772662" />
+    <state width="1344" height="217" key="GridCell.Tab.-1.bottom" timestamp="1584651062518">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1344" height="217" key="GridCell.Tab.-1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1584651062518" />
+    <state width="1344" height="217" key="GridCell.Tab.-1.center" timestamp="1584651062518">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1344" height="217" key="GridCell.Tab.-1.center/0.0.1366.728@0.0.1366.728" timestamp="1584651062518" />
+    <state width="1344" height="217" key="GridCell.Tab.-1.left" timestamp="1584651062518">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1344" height="217" key="GridCell.Tab.-1.left/0.0.1366.728@0.0.1366.728" timestamp="1584651062518" />
+    <state width="1344" height="217" key="GridCell.Tab.-1.right" timestamp="1584651062518">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1344" height="217" key="GridCell.Tab.-1.right/0.0.1366.728@0.0.1366.728" timestamp="1584651062518" />
+    <state width="1344" height="172" key="GridCell.Tab.0.bottom" timestamp="1587458836987">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1338" height="150" key="GridCell.Tab.0.bottom/0.0.1360.728@0.0.1360.728" timestamp="1584021595156" />
+    <state width="1344" height="172" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1587458836987" />
+    <state width="1344" height="172" key="GridCell.Tab.0.center" timestamp="1587458836986">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1338" height="150" key="GridCell.Tab.0.center/0.0.1360.728@0.0.1360.728" timestamp="1584021595156" />
+    <state width="1344" height="172" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1587458836986" />
+    <state width="1344" height="172" key="GridCell.Tab.0.left" timestamp="1587458836985">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1338" height="150" key="GridCell.Tab.0.left/0.0.1360.728@0.0.1360.728" timestamp="1584021595156" />
+    <state width="1344" height="172" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1587458836985" />
+    <state width="1344" height="172" key="GridCell.Tab.0.right" timestamp="1587458836986">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1338" height="150" key="GridCell.Tab.0.right/0.0.1360.728@0.0.1360.728" timestamp="1584021595156" />
+    <state width="1344" height="172" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1587458836986" />
+    <state x="22" y="468" width="1315" height="189" key="GridCell.Tab.1.bottom" timestamp="1587489567479">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="22" y="468" width="1315" height="189" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1587489567479" />
+    <state x="22" y="468" width="1315" height="189" key="GridCell.Tab.1.center" timestamp="1587489567478">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="22" y="468" width="1315" height="189" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1587489567478" />
+    <state x="22" y="468" width="1315" height="189" key="GridCell.Tab.1.left" timestamp="1587489567477">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="22" y="468" width="1315" height="189" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1587489567477" />
+    <state x="22" y="468" width="1315" height="189" key="GridCell.Tab.1.right" timestamp="1587489567478">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="22" y="468" width="1315" height="189" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1587489567478" />
+    <state x="22" y="468" width="1315" height="189" key="GridCell.Tab.2.bottom" timestamp="1587489567480">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="22" y="468" width="1315" height="189" key="GridCell.Tab.2.bottom/0.0.1366.728@0.0.1366.728" timestamp="1587489567480" />
+    <state x="22" y="468" width="1315" height="189" key="GridCell.Tab.2.center" timestamp="1587489567479">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="22" y="468" width="1315" height="189" key="GridCell.Tab.2.center/0.0.1366.728@0.0.1366.728" timestamp="1587489567479" />
+    <state x="22" y="468" width="1315" height="189" key="GridCell.Tab.2.left" timestamp="1587489567479">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="22" y="468" width="1315" height="189" key="GridCell.Tab.2.left/0.0.1366.728@0.0.1366.728" timestamp="1587489567479" />
+    <state x="22" y="468" width="1315" height="189" key="GridCell.Tab.2.right" timestamp="1587489567480">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="22" y="468" width="1315" height="189" key="GridCell.Tab.2.right/0.0.1366.728@0.0.1366.728" timestamp="1587489567480" />
+    <state x="22" y="468" width="1315" height="189" key="GridCell.Tab.3.bottom" timestamp="1587489567432">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="22" y="468" width="1315" height="189" key="GridCell.Tab.3.bottom/0.0.1366.728@0.0.1366.728" timestamp="1587489567432" />
+    <state x="22" y="468" width="1315" height="189" key="GridCell.Tab.3.center" timestamp="1587489567432">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="22" y="468" width="1315" height="189" key="GridCell.Tab.3.center/0.0.1366.728@0.0.1366.728" timestamp="1587489567432" />
+    <state x="22" y="468" width="1315" height="189" key="GridCell.Tab.3.left" timestamp="1587489567432">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="22" y="468" width="1315" height="189" key="GridCell.Tab.3.left/0.0.1366.728@0.0.1366.728" timestamp="1587489567432" />
+    <state x="22" y="468" width="1315" height="189" key="GridCell.Tab.3.right" timestamp="1587489567432">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="22" y="468" width="1315" height="189" key="GridCell.Tab.3.right/0.0.1366.728@0.0.1366.728" timestamp="1587489567432" />
+    <state x="273" y="0" key="SettingsEditor" timestamp="1587437016152">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="272" y="0" key="SettingsEditor/0.0.1360.728@0.0.1360.728" timestamp="1584351374159" />
+    <state x="273" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1587437016152" />
+    <state x="92" y="92" width="1182" height="544" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1587436386851">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="92" y="92" width="1182" height="544" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1366.728@0.0.1366.728" timestamp="1587436386851" />
+    <state x="378" y="186" key="com.intellij.ide.util.TipDialog" timestamp="1588134812701">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="376" y="186" key="com.intellij.ide.util.TipDialog/0.0.1360.728@0.0.1360.728" timestamp="1584517827270" />
+    <state x="378" y="186" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1588134812701" />
+    <state x="159" y="101" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1587416892728">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="159" y="101" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1366.728@0.0.1366.728" timestamp="1587416892728" />
+    <state x="22" y="468" width="1331" height="228" key="dock-window-1" timestamp="1587489626278">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="22" y="468" width="1331" height="228" key="dock-window-1/0.0.1366.728@0.0.1366.728" timestamp="1587489626278" />
+    <state x="22" y="468" width="1331" height="228" key="dock-window-10" timestamp="1586934951784">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="22" y="468" width="1331" height="228" key="dock-window-10/0.0.1366.728@0.0.1366.728" timestamp="1586934951784" />
+    <state x="22" y="468" width="1331" height="228" key="dock-window-11" timestamp="1586935092248">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="22" y="468" width="1331" height="228" key="dock-window-11/0.0.1366.728@0.0.1366.728" timestamp="1586935092248" />
+    <state x="22" y="468" width="1331" height="228" key="dock-window-12" timestamp="1586935139180">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="22" y="468" width="1331" height="228" key="dock-window-12/0.0.1366.728@0.0.1366.728" timestamp="1586935139180" />
+    <state x="22" y="468" width="1331" height="228" key="dock-window-13" timestamp="1586935216645">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="22" y="468" width="1331" height="228" key="dock-window-13/0.0.1366.728@0.0.1366.728" timestamp="1586935216645" />
+    <state x="22" y="468" width="1331" height="228" key="dock-window-14" timestamp="1586846566718">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="22" y="468" width="1331" height="228" key="dock-window-14/0.0.1366.728@0.0.1366.728" timestamp="1586846566718" />
+    <state x="22" y="468" width="1331" height="228" key="dock-window-15" timestamp="1586847177969">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="22" y="468" width="1331" height="228" key="dock-window-15/0.0.1366.728@0.0.1366.728" timestamp="1586847177969" />
+    <state x="22" y="468" width="1331" height="228" key="dock-window-16" timestamp="1586847429643">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="22" y="468" width="1331" height="228" key="dock-window-16/0.0.1366.728@0.0.1366.728" timestamp="1586847429643" />
+    <state x="22" y="468" width="1331" height="228" key="dock-window-17" timestamp="1586847505401">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="22" y="468" width="1331" height="228" key="dock-window-17/0.0.1366.728@0.0.1366.728" timestamp="1586847505401" />
+    <state x="22" y="468" width="1331" height="228" key="dock-window-18" timestamp="1586847778628">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="22" y="468" width="1331" height="228" key="dock-window-18/0.0.1366.728@0.0.1366.728" timestamp="1586847778628" />
+    <state x="22" y="468" width="1331" height="228" key="dock-window-19" timestamp="1586850395215">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="22" y="468" width="1331" height="228" key="dock-window-19/0.0.1366.728@0.0.1366.728" timestamp="1586850395215" />
+    <state x="22" y="468" width="1331" height="228" key="dock-window-2" timestamp="1587435583000">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="22" y="468" width="1331" height="228" key="dock-window-2/0.0.1366.728@0.0.1366.728" timestamp="1587435583000" />
+    <state x="22" y="468" width="1331" height="228" key="dock-window-20" timestamp="1586850515928">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="22" y="468" width="1331" height="228" key="dock-window-20/0.0.1366.728@0.0.1366.728" timestamp="1586850515928" />
+    <state x="22" y="468" width="1331" height="228" key="dock-window-21" timestamp="1586850630885">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="22" y="468" width="1331" height="228" key="dock-window-21/0.0.1366.728@0.0.1366.728" timestamp="1586850630885" />
+    <state x="22" y="468" width="1331" height="228" key="dock-window-22" timestamp="1586853374883">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="22" y="468" width="1331" height="228" key="dock-window-22/0.0.1366.728@0.0.1366.728" timestamp="1586853374883" />
+    <state x="22" y="468" width="1331" height="228" key="dock-window-23" timestamp="1586857101087">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="22" y="468" width="1331" height="228" key="dock-window-23/0.0.1366.728@0.0.1366.728" timestamp="1586857101087" />
+    <state x="22" y="468" width="1331" height="228" key="dock-window-24" timestamp="1586857249422">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="22" y="468" width="1331" height="228" key="dock-window-24/0.0.1366.728@0.0.1366.728" timestamp="1586857249422" />
+    <state x="22" y="468" width="1331" height="228" key="dock-window-25" timestamp="1586857331848">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="22" y="468" width="1331" height="228" key="dock-window-25/0.0.1366.728@0.0.1366.728" timestamp="1586857331848" />
+    <state x="22" y="468" width="1331" height="228" key="dock-window-26" timestamp="1586857385462">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="22" y="468" width="1331" height="228" key="dock-window-26/0.0.1366.728@0.0.1366.728" timestamp="1586857385462" />
+    <state x="22" y="468" width="1331" height="228" key="dock-window-27" timestamp="1586857454860">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="22" y="468" width="1331" height="228" key="dock-window-27/0.0.1366.728@0.0.1366.728" timestamp="1586857454860" />
+    <state x="22" y="468" width="1331" height="228" key="dock-window-28" timestamp="1586857519612">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="22" y="468" width="1331" height="228" key="dock-window-28/0.0.1366.728@0.0.1366.728" timestamp="1586857519612" />
+    <state x="22" y="468" width="1331" height="228" key="dock-window-29" timestamp="1586857619362">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="22" y="468" width="1331" height="228" key="dock-window-29/0.0.1366.728@0.0.1366.728" timestamp="1586857619362" />
+    <state x="22" y="468" width="1331" height="228" key="dock-window-3" timestamp="1587436386851">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="22" y="468" width="1331" height="228" key="dock-window-3/0.0.1366.728@0.0.1366.728" timestamp="1587436386851" />
+    <state x="22" y="468" width="1331" height="228" key="dock-window-30" timestamp="1586857847355">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="22" y="468" width="1331" height="228" key="dock-window-30/0.0.1366.728@0.0.1366.728" timestamp="1586857847355" />
+    <state x="22" y="468" width="1331" height="228" key="dock-window-31" timestamp="1586857982662">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="22" y="468" width="1331" height="228" key="dock-window-31/0.0.1366.728@0.0.1366.728" timestamp="1586857982662" />
+    <state x="22" y="468" width="1331" height="228" key="dock-window-32" timestamp="1586865124769">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="22" y="468" width="1331" height="228" key="dock-window-32/0.0.1366.728@0.0.1366.728" timestamp="1586865124769" />
+    <state x="22" y="468" width="1331" height="228" key="dock-window-33" timestamp="1586865244838">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="22" y="468" width="1331" height="228" key="dock-window-33/0.0.1366.728@0.0.1366.728" timestamp="1586865244838" />
+    <state x="22" y="468" width="1331" height="228" key="dock-window-34" timestamp="1586865343709">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="22" y="468" width="1331" height="228" key="dock-window-34/0.0.1366.728@0.0.1366.728" timestamp="1586865343709" />
+    <state x="22" y="468" width="1331" height="228" key="dock-window-35" timestamp="1586865426581">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="22" y="468" width="1331" height="228" key="dock-window-35/0.0.1366.728@0.0.1366.728" timestamp="1586865426581" />
+    <state x="22" y="468" width="1331" height="228" key="dock-window-36" timestamp="1586865554420">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="22" y="468" width="1331" height="228" key="dock-window-36/0.0.1366.728@0.0.1366.728" timestamp="1586865554420" />
+    <state x="22" y="468" width="1331" height="228" key="dock-window-37" timestamp="1586865675988">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="22" y="468" width="1331" height="228" key="dock-window-37/0.0.1366.728@0.0.1366.728" timestamp="1586865675988" />
+    <state x="22" y="468" width="1331" height="228" key="dock-window-38" timestamp="1586865857607">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="22" y="468" width="1331" height="228" key="dock-window-38/0.0.1366.728@0.0.1366.728" timestamp="1586865857607" />
+    <state x="22" y="468" width="1331" height="228" key="dock-window-39" timestamp="1586866004596">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="22" y="468" width="1331" height="228" key="dock-window-39/0.0.1366.728@0.0.1366.728" timestamp="1586866004596" />
+    <state x="22" y="468" width="1331" height="228" key="dock-window-4" timestamp="1587436386851">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="22" y="468" width="1331" height="228" key="dock-window-4/0.0.1366.728@0.0.1366.728" timestamp="1587436386851" />
+    <state x="22" y="468" width="1331" height="228" key="dock-window-40" timestamp="1586866323273">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="22" y="468" width="1331" height="228" key="dock-window-40/0.0.1366.728@0.0.1366.728" timestamp="1586866323273" />
+    <state x="22" y="468" width="1331" height="228" key="dock-window-41" timestamp="1586871864885">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="22" y="468" width="1331" height="228" key="dock-window-41/0.0.1366.728@0.0.1366.728" timestamp="1586871864885" />
+    <state x="22" y="468" width="1331" height="228" key="dock-window-42" timestamp="1586871864886">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="22" y="468" width="1331" height="228" key="dock-window-42/0.0.1366.728@0.0.1366.728" timestamp="1586871864886" />
+    <state x="22" y="468" width="1331" height="228" key="dock-window-43" timestamp="1586871864886">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="22" y="468" width="1331" height="228" key="dock-window-43/0.0.1366.728@0.0.1366.728" timestamp="1586871864886" />
+    <state x="22" y="468" width="1331" height="228" key="dock-window-44" timestamp="1586871864886">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="22" y="468" width="1331" height="228" key="dock-window-44/0.0.1366.728@0.0.1366.728" timestamp="1586871864886" />
+    <state x="22" y="468" width="1331" height="228" key="dock-window-45" timestamp="1586871971628">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="22" y="468" width="1331" height="228" key="dock-window-45/0.0.1366.728@0.0.1366.728" timestamp="1586871971628" />
+    <state x="22" y="468" width="1331" height="228" key="dock-window-46" timestamp="1586593641205">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="22" y="468" width="1331" height="228" key="dock-window-46/0.0.1366.728@0.0.1366.728" timestamp="1586593641205" />
+    <state x="22" y="468" width="1331" height="228" key="dock-window-47" timestamp="1586593765930">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="22" y="468" width="1331" height="228" key="dock-window-47/0.0.1366.728@0.0.1366.728" timestamp="1586593765930" />
+    <state x="22" y="468" width="1331" height="228" key="dock-window-48" timestamp="1586594362056">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="22" y="468" width="1331" height="228" key="dock-window-48/0.0.1366.728@0.0.1366.728" timestamp="1586594362056" />
+    <state x="22" y="468" width="1331" height="228" key="dock-window-5" timestamp="1587436423127">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="22" y="468" width="1331" height="228" key="dock-window-5/0.0.1366.728@0.0.1366.728" timestamp="1587436423127" />
+    <state x="22" y="468" width="1331" height="228" key="dock-window-6" timestamp="1587436510951">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="22" y="468" width="1331" height="228" key="dock-window-6/0.0.1366.728@0.0.1366.728" timestamp="1587436510951" />
+    <state x="22" y="468" width="1331" height="228" key="dock-window-7" timestamp="1587436703140">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="22" y="468" width="1331" height="228" key="dock-window-7/0.0.1366.728@0.0.1366.728" timestamp="1587436703140" />
+    <state x="22" y="468" width="1331" height="228" key="dock-window-8" timestamp="1587437371266">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="22" y="468" width="1331" height="228" key="dock-window-8/0.0.1366.728@0.0.1366.728" timestamp="1587437371266" />
+    <state x="22" y="468" width="1331" height="228" key="dock-window-9" timestamp="1587434569341">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="22" y="468" width="1331" height="228" key="dock-window-9/0.0.1366.728@0.0.1366.728" timestamp="1587434569341" />
+    <state x="0" y="0" width="709" height="819" key="find.popup" timestamp="1588141270512">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="0" y="0" width="709" height="819" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1588141270512" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
